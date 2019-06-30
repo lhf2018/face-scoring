@@ -1,2 +1,2 @@
-*.py linguist-language=java
-*.jpg linguist-language=java
+*.py linguist-language=python
+*.jpg linguist-language=python
